@@ -1,4 +1,4 @@
-# **Projektopgave HI-FI Horizon**
+# **Projektopgave HI-FI Corner**
 
 ## Om opgaven
 Denne opgave omhandler opsætning, navigation og hentning af data. Læs hele opgavebeskrivelsen grundigt igennem inden I stiller spørgsmål.
